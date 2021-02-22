@@ -1,0 +1,16 @@
+[
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "D:\\\\Happy new pc\\\\Github\\\\CalWoolgarBlog\\\\nuxt-blog\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_4fd08a8f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Happy new pc\\\\Github\\\\CalWoolgarBlog\\\\nuxt-blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6f21110e"
+  }
+]
